@@ -5,6 +5,7 @@ I'm an enthusiastic software developer and practicing Python currently.
 <summary>My top language</summary>
 
 | Rank | Languages |
+|------|-----------|
 | 1    | Python    |
 | 2    | SQL       |
 

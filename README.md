@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, this is Paul! 👋
+### I'm currently learning Python.
 
 <!--
 **fai1232002/fai1232002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

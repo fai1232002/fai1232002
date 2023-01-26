@@ -1,5 +1,5 @@
-# Hi there, this is Paul! 👋
-### I'm currently learning Python.
+### Hi there, this is Paul! 👋
+I'm an enthusiastic software developer and practicing Python currently.
 
 <!--
 **fai1232002/fai1232002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
